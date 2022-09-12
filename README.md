@@ -1,5 +1,5 @@
 # NLW-eSports
 
-<img width="600" src="../.github/nlw-esports-logo.svg">
+<p align="center"><img width="600" src="./.gitbub/nlw-esports-logo.svg"></p>
 
 Minha primeira NLW
